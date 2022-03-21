@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    text-align: center;
+
+}
+h1{
+    font-size: 5.625rem;
+    margin-top:50px;
+    font-family: 'Inspiration', cursive;
+    font-size:90px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.5rem;
+}
+h3{
+    font-family: 'Merriweather', serif;
+}
+
+.top-container{
+    background-color: #EFFFFD;
+    width:100%;
+    height:100%;
+}
+.mid-container{
+    
+
+}
+.bottom-container{
+    
+}
+.upperCloud{
+    position:relative;
+    width:500px;
+    left:500px;
+}
+.lowerCloud{
+    position:absolute;
+    bottom:40px;
+    width:500px;
+}
+.hill{
+
+    width:100%;
+
+}
