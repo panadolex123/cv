@@ -1,17 +1,16 @@
 body{
-    margin: 0px;
+    margin: 0px 0px;
     text-align: center;
 
 }
 h1{
-    font-size: 5.625rem;
+    font-size: 5.625em;
     margin-top:50px;
     font-family: 'Inspiration', cursive;
-    font-size:90px;
 }
 h2{
     font-family: 'Montserrat', sans-serif;
-    font-size:2.5rem;
+    font-size:2.5em;
 }
 h3{
     font-family: 'Merriweather', serif;
@@ -19,8 +18,7 @@ h3{
 
 .top-container{
     background-color: #EFFFFD;
-    width:100%;
-    height:100%;
+    
 }
 .mid-container{
     
@@ -31,16 +29,20 @@ h3{
 }
 .upperCloud{
     position:relative;
-    width:500px;
+    width:25%;
     left:500px;
+    top:200px;
+ 
 }
 .lowerCloud{
     position:absolute;
-    bottom:40px;
-    width:500px;
+    
+    width:25%;
+    bottom: 100px;
+    left:50px;
 }
 .hill{
-
+    height:50%;
     width:100%;
 
 }
